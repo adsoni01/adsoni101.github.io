@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hackathon-2025",
+    "title": "SKIT Tech Hackathon 2025",
+    "startAt": "2025-11-20T09:00:00+05:30",
+    "endAt": "2025-11-21T18:00:00+05:30",
+    "venue": "Main Auditorium",
+    "coverImage": "/images/events/hackathon.jpg",
+    "cta": { "label": "Register", "href": "https://example.com/register" }
+  },
+  {
+    "id": "placement-drive",
+    "title": "Campus Placement Drive",
+    "startAt": "2025-10-18T10:00:00+05:30",
+    "endAt": "2025-10-18T16:00:00+05:30",
+    "venue": "Training & Placement Cell",
+    "coverImage": "/images/events/placement.jpg",
+    "cta": { "label": "Details", "href": "https://example.com/placement" }
+  },
+  {
+    "id": "ai-guest-lecture",
+    "title": "Guest Lecture: AI/ML Trends",
+    "startAt": "2025-10-28T11:00:00+05:30",
+    "endAt": "2025-10-28T12:30:00+05:30",
+    "venue": "ECE Block, Room 204",
+    "coverImage": "/images/events/ai-lecture.jpg",
+    "cta": { "label": "Join", "href": "https://example.com/ai" }
+  },
+  {
+    "id": "ece-workshop",
+    "title": "National Workshop (ECE)",
+    "startAt": "2025-12-05T09:30:00+05:30",
+    "endAt": "2025-12-06T17:00:00+05:30",
+    "venue": "Seminar Hall",
+    "coverImage": "/images/events/workshop.jpg",
+    "cta": { "label": "Register", "href": "https://example.com/ece" }
+  }
+]
